@@ -2,7 +2,7 @@
 ## About the Project
 -  A Multilingual Hate Speech Detector for Social Media Comments
 -  Data: Utilized Twitter the hate_speech_dataset
--  Models: Fine-tuned BERT Model showed a high accuracy of 90.9% on validation data. The Bidirectional LSTM had a validation accuracy of 87.9%
+-  Models: Fine-tuned BERT Model showed a high accuracy of 90.9% on validation data. The Bidirectional LSTM had a validation accuracy of 87.9%. [Colab Notebook](https://colab.research.google.com/drive/1FMOlx08vJVDhZtY3IGte3YO0Muww-KhH?usp=sharing)
 -  Delpoyment: The models was deployed on streamlit, the app can be accessed [here](https://hatespeech-baccm883wr5spxhomtf5dv.streamlit.app/)
 -  The App supports various languages. The languages are translated to english before inference, the google-translate API is used for translation.
 
