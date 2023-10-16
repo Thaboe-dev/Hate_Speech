@@ -22,5 +22,5 @@
 3. [Colab Notebook](https://colab.research.google.com/drive/1FMOlx08vJVDhZtY3IGte3YO0Muww-KhH?usp=sharing)
 
 ## Group Members
-1.Thabolezwe Mabandla R204443F
+1. Thabolezwe Mabandla R204443F
 2. Tariro Nyamangodo 
