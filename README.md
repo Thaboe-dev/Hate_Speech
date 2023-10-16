@@ -16,6 +16,11 @@
 7. Streamlit
 8. Github
 
+## Links
+1. [Streamlit App](https://hatespeech-baccm883wr5spxhomtf5dv.streamlit.app/)
+2. [Video]()
+3. [Colab Notebook](https://colab.research.google.com/drive/1FMOlx08vJVDhZtY3IGte3YO0Muww-KhH?usp=sharing)
+
 ## Group Members
 Thabolezwe Mabandla R204443F
 Tariro Nyamangodo 
