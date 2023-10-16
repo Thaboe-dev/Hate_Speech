@@ -15,3 +15,7 @@
 6. Colab
 7. Streamlit
 8. Github
+
+## Group Members
+Thabolezwe Mabandla R204443F
+Tariro Nyamangodo 
