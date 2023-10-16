@@ -6,8 +6,8 @@ from keras.models import load_model
 from googletrans import Translator
 
 # Load the pretrained model and tokenizer
-model = load_model(r"C:\Users\LENOVO\Documents\NLP\hate_speech_model.h5")  
-tokenizer = pickle.load(open(r"C:\Users\LENOVO\Documents\NLP\hate_speech_tokenizer.pkl", 'rb'))
+model = load_model("hate_speech_model.h5")  
+tokenizer = pickle.load(open("hate_speech_tokenizer.pkl", 'rb'))
 
 
 # Define the class labels mapping
