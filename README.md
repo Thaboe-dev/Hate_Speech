@@ -18,9 +18,9 @@
 
 ## Links
 1. [Streamlit App](https://hatespeech-baccm883wr5spxhomtf5dv.streamlit.app/)
-2. [Video]()
+2. [Video](https://youtu.be/b4PDBx2K0hA)
 3. [Colab Notebook](https://colab.research.google.com/drive/1FMOlx08vJVDhZtY3IGte3YO0Muww-KhH?usp=sharing)
 
 ## Group Members
 1. Thabolezwe Mabandla R204443F
-2. Tariro Nyamangodo 
+2. Tariro Nyamangodo R204430M
