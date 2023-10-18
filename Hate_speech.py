@@ -45,7 +45,7 @@ def predict_class(model, tokenizer, text):
 st.title("Hate Speech Detection App")
 
 # Multilingual Support
-selected_language = st.selectbox("Select Language", ["Shona","Ndebele","English", "French", "Spanish", "German"])
+selected_language = st.selectbox("Select Language", ["Shona","Ndebele/Zulu","English", "French", "Spanish", "German"])
 
 # Input text
 text_input = st.text_area("Enter text for hate speech detection:")
